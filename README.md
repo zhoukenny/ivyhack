@@ -6,8 +6,8 @@ Our product helps users categorize movies and shows they're interested in watchi
 
 # How we built it
 We build our design prototype on Figma and currently are working on a Flutter/Android Studio to build the actual mobile software application.
-Challenges we ran into
 
+# Challenges we ran into
 Starting out, we had trouble narrowing down the application scope. We have very limited time, so we had to prioritize features, as well as the audience. We initially split into 2 product visions: one app for finding mutually-liked movies and shows and one app for getting a list of mutually-liked interests for networking conversation topics.
 
 Additionally, it was tough to coordinate around everyone's schedules, when to meet - we have team members in APAC and team members across the US on the east and west coast.
